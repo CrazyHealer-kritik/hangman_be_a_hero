@@ -1,3 +1,3 @@
 # hangman_be_a_hero
-Hangman be a hero save your friend 
-change the names in word.py word_list
+<h2>Hangman be a hero save your friend </h2>
+<b>change the names in word.py word_list</b>
